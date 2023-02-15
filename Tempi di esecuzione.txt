@@ -1,0 +1,1 @@
+Tempo di esecuzione per lettura del csv e creazione oggetti : 0.636 secondi
